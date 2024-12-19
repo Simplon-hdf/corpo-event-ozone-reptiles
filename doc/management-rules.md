@@ -12,3 +12,15 @@
 - **RG8:** Un admin peut modifier un compte collaborateur.
 - **RG9:** Un admin peut supprimer un compte collaborateur.
  
+## Gestion des événements
+- **RG10** : Un événement possède un titre
+- **RG11** : Un événement possède une description
+- **RG12** : Un événement possède une date de début
+- **RG13** : Un événement possède une date de fin
+- **RG14** : Un événement possède un lieu
+- **RG15** : Un événement possède une heure de début
+- **RG16** : Un événement peut être créé par un **admin** ou un **collaborateur**
+- **RG17** : Un collaborateur peut modifier l'événement **qu'il a créé**
+- **RG18** : Un collaborateur peut supprimer l'événement **qu'il a créé**
+- **RG19** : Un admin peut modifier **tous** les événements
+- **RG20** : Un événement peut être supprimé par un **admin** ou un **collaborateur**
