@@ -20,9 +20,12 @@
 - **RG14** : Un événement possède un **lieu**
 - **RG15** : Un événement possède une **heure** de **début**
 - **RG16** : Un événement peut être créé par un **admin** ou un **collaborateur**
-- **RG17** : Un collaborateur peut modifier l'événement **qu'il a créé**
-- **RG18** : Un collaborateur peut supprimer l'événement **qu'il a créé**
-- **RG19** : Un admin peut modifier **tous** les événements
-- **RG20** : Un admin ou un collaborateur peut **participer** à un événement
-- **RG21** : Un admin ou un collaborateur peut **commenter** un événement
-- **RG20** : Un événement peut être supprimé par un **admin** ou un **collaborateur**
+- **RG17** : Un événement peut être supprimé par un **admin** ou un **collaborateur**
+- **RG18** : Un collaborateur peut modifier l'événement **qu'il a créé**
+- **RG19** : Un collaborateur peut supprimer l'événement **qu'il a créé**
+- **RG20** : Un admin peut modifier **tous** les événements
+- **RG21** : Un admin **ou** un collaborateur peut **commenter** un événement
+- **RG22** : Un admin ou un collaborateur peut **modifier** le commentaire d'un événement
+- **RG23** : Un admin ou un collaborateur peut **supprimer** le commentaire d'un événement
+- **RG24** : Un collaborateur peut **supprimer** les commentaires de son événement
+- **RG25** : Un admin peut **supprimer** un commentaire d'un événement
