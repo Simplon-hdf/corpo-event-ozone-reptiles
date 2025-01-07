@@ -56,16 +56,6 @@ public class EventRepository {
     }
 
     /**
-     * Finds an event by its ID.
-     *
-     * @param event_id the ID of the event
-     * @return the event if found, null otherwise
-     */
-    public Event getEvent(String event_id) {
-        return null; //TODO
-    }
-
-    /**
      * Retrieves the events associated with a collaborator.
      *
      * @return a list of events
